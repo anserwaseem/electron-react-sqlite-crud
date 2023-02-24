@@ -2,7 +2,7 @@
   "name": "electron-react-sqlite-crud",
   "version": "0.0.1",
   "description": "boilerplate CRUD project using  electron, react, typescript, webpack, and sqlite",
-  "main": "src/main.js",
+  "main": "src/main/app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "electron-forge start",
